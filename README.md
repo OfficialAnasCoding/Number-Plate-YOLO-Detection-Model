@@ -27,7 +27,7 @@ python3 YOLO_Testing.py
 ```
 The code is set to select only the number plate detected with highest confidence
 ### 4. (Optional) train your own model
-There is already a model trained on 80 epochs which you can use. However if you would like to try training your own you can. The models are trained on labelled images from the YOLO_Dataset folder
+There is already a model trained on 50 epochs which you can use. However if you would like to try training your own you can. The models are trained on labelled images from the YOLO_Dataset folder
 ```bash
 python3 YOLO_Train.py
 ```
