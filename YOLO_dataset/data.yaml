@@ -1,5 +1,5 @@
-train: YOLO_dataset/train
-val: YOLO_dataset/valid
+train: train
+val: valid
 
 nc: 1
 names: ['numberplates']

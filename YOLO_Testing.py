@@ -4,7 +4,7 @@ import os
 
 # ---------------- CONFIG ---------------- #
 # Load trained YOLO model
-model = YOLO("/Users/anasibnsaifullah/Desktop/NumberPlateDetector/runs/detect/train6/weights/best.pt")
+model = YOLO("runs/detect/train7/weights/best.pt")
 
 # Input folder (full car images)
 test_folder = "YOLO_dataset/YOLOtesting"
