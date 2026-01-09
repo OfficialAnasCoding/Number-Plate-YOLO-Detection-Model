@@ -1,0 +1,5 @@
+train: YOLO_dataset/train
+val: YOLO_dataset/valid
+
+nc: 1
+names: ['numberplates']
